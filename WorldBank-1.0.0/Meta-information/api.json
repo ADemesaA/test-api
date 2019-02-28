@@ -10,7 +10,7 @@
   "contextTemplate": "/wb/{version}",
   "tags": [],
   "documents": [],
-  "lastUpdated": "Feb 28, 2019 5:28:51 PM",
+  "lastUpdated": "Feb 28, 2019 5:33:17 PM",
   "availableTiers": [
     {
       "name": "Bronze",
@@ -92,6 +92,9 @@
   "endpointSecured": false,
   "endpointAuthDigest": false,
   "transports": "http,https",
+  "inSequence": "log_in_message",
+  "outSequence": "log_out_message",
+  "faultSequence": "debug_json_fault",
   "advertiseOnly": false,
   "corsConfiguration": {
     "corsConfigurationEnabled": false,
