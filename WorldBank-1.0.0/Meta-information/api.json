@@ -10,7 +10,7 @@
   "contextTemplate": "/wb/{version}",
   "tags": [],
   "documents": [],
-  "lastUpdated": "Feb 28, 2019 5:33:17 PM",
+  "lastUpdated": "Mar 1, 2019 10:19:40 AM",
   "availableTiers": [
     {
       "name": "Bronze",
@@ -86,7 +86,7 @@
   "status": "CREATED",
   "technicalOwner": "Amado Demesa",
   "technicalOwnerEmail": "asood.03@gmail.com",
-  "businessOwner": "Hola",
+  "businessOwner": "Hola mundo",
   "businessOwnerEmail": "asood.03@gmail.com",
   "visibility": "public",
   "endpointSecured": false,
