@@ -6,14 +6,5 @@
     "summary": "Hola",
     "sourceType": "INLINE",
     "lastUpdated": "Feb 28, 2019 5:20:58 PM"
-  },
-  {
-    "id": "43363d67-22bf-4584-a6e7-c9ae65923f25",
-    "type": "SAMPLES",
-    "name": "Ballerina",
-    "summary": "Ballerina language Specs",
-    "sourceType": "FILE",
-    "lastUpdated": "Mar 1, 2019 10:25:31 AM",
-    "filePath": "Ballerina-Language-Specification-v0.990-2019-01-16 (1).pdf"
   }
 ]
